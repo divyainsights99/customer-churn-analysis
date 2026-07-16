@@ -7,8 +7,6 @@ A full churn analysis on a 7,043-customer telecom dataset — from EDA through a
 **Tools:** Python (Pandas, NumPy, Seaborn) · Power BI
 **Dataset:** [`WA_Fn-UseC_-Telco-Customer-Churn.csv`](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) — 7,043 customers, 21 fields
 
-📄 [Full PDF Report](./report/Customer_Churn_Analysis_Report.pdf) · 📓 [Notebook](./notebooks/customer_churn_analysis.ipynb) · 📊 [Power BI Dashboard](./dashboard/customer_churn_analysis.pbix)
-
 ---
 
 ## Executive Summary
